@@ -1,2 +1,2 @@
 # tradeguerilla
-Python code for Algorithmic Trading from Blog tradeguerilla.com
+Python code for Algorithmic Trading from blog tradeguerilla.com
